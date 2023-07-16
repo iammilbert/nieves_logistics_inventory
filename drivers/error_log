@@ -1,0 +1,239 @@
+[10-Oct-2022 13:22:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lgtilogi/public_html/config.php:1) in /home/lgtilogi/public_html/drivers/index.php on line 7
+[07-Nov-2022 15:41:50 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/nieveslo/public_html/drivers/load_assigned.php:94
+Stack trace:
+#0 /home/nieveslo/public_html/drivers/load_assigned.php(94): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home/nieveslo/public_html/drivers/load_assigned.php on line 94
+[07-Nov-2022 15:42:25 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/nieveslo/public_html/drivers/load_assigned.php:94
+Stack trace:
+#0 /home/nieveslo/public_html/drivers/load_assigned.php(94): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home/nieveslo/public_html/drivers/load_assigned.php on line 94
+[07-Nov-2022 15:45:12 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/nieveslo/public_html/drivers/load_assigned.php:94
+Stack trace:
+#0 /home/nieveslo/public_html/drivers/load_assigned.php(94): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home/nieveslo/public_html/drivers/load_assigned.php on line 94
+[07-Nov-2022 15:47:24 UTC] PHP Warning:  Undefined array key "vehicle_id" in /home/nieveslo/public_html/drivers/dropLoadForm.php on line 237
+[07-Nov-2022 15:53:09 UTC] PHP Warning:  Undefined array key "vehicle_id1" in /home/nieveslo/public_html/drivers/dropLoadForm.php on line 258
+[07-Nov-2022 15:53:09 UTC] PHP Warning:  Undefined array key "vehicle_id2" in /home/nieveslo/public_html/drivers/dropLoadForm.php on line 259
+[07-Nov-2022 15:53:09 UTC] PHP Warning:  Undefined array key "vehicle_id3" in /home/nieveslo/public_html/drivers/dropLoadForm.php on line 260
+[07-Nov-2022 15:53:38 UTC] PHP Warning:  Undefined array key "vehicle_id1" in /home/nieveslo/public_html/drivers/dropLoadForm.php on line 258
+[07-Nov-2022 15:53:38 UTC] PHP Warning:  Undefined array key "vehicle_id2" in /home/nieveslo/public_html/drivers/dropLoadForm.php on line 259
+[07-Nov-2022 15:53:38 UTC] PHP Warning:  Undefined array key "vehicle_id3" in /home/nieveslo/public_html/drivers/dropLoadForm.php on line 260
+[07-Nov-2022 15:59:57 UTC] PHP Warning:  Undefined array key "vehicle_id" in /home/nieveslo/public_html/drivers/dropLoadForm_query.php on line 5
+[07-Nov-2022 15:59:57 UTC] PHP Warning:  Undefined array key "expenses_Type" in /home/nieveslo/public_html/drivers/dropLoadForm_query.php on line 13
+[07-Nov-2022 16:00:40 UTC] PHP Warning:  Undefined array key "tel" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 30
+[07-Nov-2022 16:00:40 UTC] PHP Warning:  Undefined array key "email" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 35
+[07-Nov-2022 16:00:40 UTC] PHP Warning:  Undefined array key "tel" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 30
+[07-Nov-2022 16:00:40 UTC] PHP Warning:  Undefined array key "email" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 35
+[07-Nov-2022 16:00:40 UTC] PHP Warning:  Undefined array key "tel" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 30
+[07-Nov-2022 16:00:40 UTC] PHP Warning:  Undefined array key "email" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 35
+[07-Nov-2022 16:00:45 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/nieveslo/public_html/drivers/load_cancel.php:94
+Stack trace:
+#0 /home/nieveslo/public_html/drivers/load_cancel.php(94): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home/nieveslo/public_html/drivers/load_cancel.php on line 94
+[07-Nov-2022 20:36:19 UTC] PHP Warning:  Undefined array key "tel" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 30
+[07-Nov-2022 20:36:19 UTC] PHP Warning:  Undefined array key "email" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 35
+[07-Nov-2022 20:36:19 UTC] PHP Warning:  Undefined array key "tel" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 30
+[07-Nov-2022 20:36:19 UTC] PHP Warning:  Undefined array key "email" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 35
+[07-Nov-2022 20:36:19 UTC] PHP Warning:  Undefined array key "tel" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 30
+[07-Nov-2022 20:36:19 UTC] PHP Warning:  Undefined array key "email" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 35
+[07-Nov-2022 20:37:14 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/nieveslo/public_html/drivers/load_cancel.php:94
+Stack trace:
+#0 /home/nieveslo/public_html/drivers/load_cancel.php(94): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home/nieveslo/public_html/drivers/load_cancel.php on line 94
+[07-Nov-2022 20:44:44 UTC] PHP Warning:  Undefined array key "tel" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 30
+[07-Nov-2022 20:44:44 UTC] PHP Warning:  Undefined array key "email" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 35
+[07-Nov-2022 20:44:44 UTC] PHP Warning:  Undefined array key "tel" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 30
+[07-Nov-2022 20:44:44 UTC] PHP Warning:  Undefined array key "email" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 35
+[07-Nov-2022 20:44:44 UTC] PHP Warning:  Undefined array key "tel" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 30
+[07-Nov-2022 20:44:44 UTC] PHP Warning:  Undefined array key "email" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 35
+[07-Nov-2022 21:32:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 212
+[07-Nov-2022 21:32:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 213
+[07-Nov-2022 21:32:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 214
+[07-Nov-2022 21:32:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 215
+[07-Nov-2022 21:32:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 229
+[07-Nov-2022 21:32:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 230
+[07-Nov-2022 21:32:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 231
+[07-Nov-2022 21:33:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 211
+[07-Nov-2022 21:33:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 212
+[07-Nov-2022 21:33:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 213
+[07-Nov-2022 21:33:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 214
+[07-Nov-2022 21:33:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 228
+[07-Nov-2022 21:33:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 229
+[07-Nov-2022 21:33:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 230
+[07-Nov-2022 21:42:38 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/nieveslo/public_html/drivers/load_Details.php on line 226
+[07-Nov-2022 21:42:43 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/nieveslo/public_html/drivers/load_Details.php on line 226
+[07-Nov-2022 21:42:44 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/nieveslo/public_html/drivers/load_Details.php on line 226
+[07-Nov-2022 21:42:46 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/nieveslo/public_html/drivers/load_Details.php on line 226
+[07-Nov-2022 21:42:46 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/nieveslo/public_html/drivers/load_Details.php on line 226
+[07-Nov-2022 21:42:46 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/nieveslo/public_html/drivers/load_Details.php on line 226
+[07-Nov-2022 21:42:46 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/nieveslo/public_html/drivers/load_Details.php on line 226
+[07-Nov-2022 21:42:47 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/nieveslo/public_html/drivers/load_Details.php on line 226
+[07-Nov-2022 21:42:47 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/nieveslo/public_html/drivers/load_Details.php on line 226
+[07-Nov-2022 21:42:48 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/nieveslo/public_html/drivers/load_Details.php on line 226
+[07-Nov-2022 21:43:08 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/nieveslo/public_html/drivers/load_Details.php on line 226
+[07-Nov-2022 21:46:43 UTC] PHP Warning:  Undefined variable $row5 in /home/nieveslo/public_html/drivers/load_Details.php on line 206
+[07-Nov-2022 21:46:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 206
+[07-Nov-2022 21:46:43 UTC] PHP Warning:  Undefined variable $row5 in /home/nieveslo/public_html/drivers/load_Details.php on line 207
+[07-Nov-2022 21:46:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 207
+[07-Nov-2022 21:46:43 UTC] PHP Warning:  Undefined variable $row5 in /home/nieveslo/public_html/drivers/load_Details.php on line 208
+[07-Nov-2022 21:46:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 208
+[07-Nov-2022 21:46:43 UTC] PHP Warning:  Undefined variable $row5 in /home/nieveslo/public_html/drivers/load_Details.php on line 209
+[07-Nov-2022 21:46:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 209
+[07-Nov-2022 21:46:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 254
+[07-Nov-2022 21:46:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 255
+[07-Nov-2022 21:46:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 256
+[07-Nov-2022 21:47:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 244
+[07-Nov-2022 21:47:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 245
+[07-Nov-2022 21:47:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 246
+[07-Nov-2022 21:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 244
+[07-Nov-2022 21:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 245
+[07-Nov-2022 21:48:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 246
+[07-Nov-2022 21:49:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 244
+[07-Nov-2022 21:49:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 245
+[07-Nov-2022 21:49:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 246
+[07-Nov-2022 21:52:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 243
+[07-Nov-2022 21:52:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 244
+[07-Nov-2022 21:52:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 245
+[07-Nov-2022 21:52:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 243
+[07-Nov-2022 21:52:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 244
+[07-Nov-2022 21:52:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 245
+[07-Nov-2022 21:59:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 243
+[07-Nov-2022 21:59:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 244
+[07-Nov-2022 21:59:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 245
+[07-Nov-2022 21:59:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 243
+[07-Nov-2022 21:59:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 244
+[07-Nov-2022 21:59:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 245
+[07-Nov-2022 22:03:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 243
+[07-Nov-2022 22:03:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 244
+[07-Nov-2022 22:03:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 245
+[08-Nov-2022 19:51:43 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/pickLoadTable.php on line 12
+[08-Nov-2022 19:57:39 UTC] PHP Warning:  Undefined array key "vehicle_id" in /home/nieveslo/public_html/drivers/pickLoadForm_query.php on line 5
+[08-Nov-2022 19:57:39 UTC] PHP Warning:  Undefined array key "totalLoadPicked" in /home/nieveslo/public_html/drivers/pickLoadForm_query.php on line 10
+[08-Nov-2022 20:04:23 UTC] PHP Warning:  Undefined array key "expenses_Type" in /home/nieveslo/public_html/drivers/dropLoadForm_query.php on line 15
+[08-Nov-2022 20:04:35 UTC] PHP Warning:  Undefined array key "expenses_Type" in /home/nieveslo/public_html/drivers/dropLoadForm_query.php on line 15
+[08-Nov-2022 20:04:43 UTC] PHP Warning:  Undefined array key "expenses_Type" in /home/nieveslo/public_html/drivers/dropLoadForm_query.php on line 15
+[08-Nov-2022 20:20:28 UTC] PHP Warning:  Undefined array key "vehicle_id" in /home/nieveslo/public_html/drivers/pickLoadForm_query.php on line 5
+[08-Nov-2022 20:20:28 UTC] PHP Warning:  Undefined array key "totalLoadPicked" in /home/nieveslo/public_html/drivers/pickLoadForm_query.php on line 10
+[08-Nov-2022 20:21:00 UTC] PHP Warning:  Undefined array key "expenses_Type" in /home/nieveslo/public_html/drivers/dropLoadForm_query.php on line 15
+[08-Nov-2022 20:23:32 UTC] PHP Warning:  Undefined array key "tel" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 30
+[08-Nov-2022 20:23:32 UTC] PHP Warning:  Undefined array key "email" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 35
+[08-Nov-2022 20:27:46 UTC] PHP Warning:  Undefined array key "tel" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 30
+[08-Nov-2022 20:27:46 UTC] PHP Warning:  Undefined array key "email" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 35
+[08-Nov-2022 21:06:52 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/bol_form.php on line 12
+[10-Nov-2022 09:56:00 UTC] PHP Warning:  Undefined array key "vehicle_id" in /home/nieveslo/public_html/drivers/pickLoadForm_query.php on line 5
+[10-Nov-2022 09:56:00 UTC] PHP Warning:  Undefined array key "totalLoadPicked" in /home/nieveslo/public_html/drivers/pickLoadForm_query.php on line 10
+[10-Nov-2022 09:59:00 UTC] PHP Warning:  Undefined array key "expenses_Type" in /home/nieveslo/public_html/drivers/dropLoadForm_query.php on line 15
+[14-Nov-2022 10:08:19 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/load_delivered.php on line 12
+[14-Nov-2022 11:31:15 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/index.php on line 12
+[14-Nov-2022 11:36:56 UTC] PHP Warning:  Undefined array key "tel" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 30
+[14-Nov-2022 11:36:56 UTC] PHP Warning:  Undefined array key "email" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 35
+[14-Nov-2022 11:36:56 UTC] PHP Warning:  Undefined array key "tel" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 30
+[14-Nov-2022 11:36:56 UTC] PHP Warning:  Undefined array key "email" in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 35
+[14-Nov-2022 12:27:53 UTC] PHP Warning:  Undefined array key "vehicle_id" in /home/nieveslo/public_html/drivers/pickLoadForm_query.php on line 5
+[14-Nov-2022 12:27:53 UTC] PHP Warning:  Undefined array key "totalLoadPicked" in /home/nieveslo/public_html/drivers/pickLoadForm_query.php on line 10
+[14-Nov-2022 12:28:57 UTC] PHP Warning:  Undefined array key "expenses_Type" in /home/nieveslo/public_html/drivers/dropLoadForm_query.php on line 15
+[14-Nov-2022 13:36:39 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/load_delivered.php on line 12
+[14-Nov-2022 14:32:01 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/load_delivered.php on line 12
+[14-Nov-2022 17:33:54 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/bol_form.php on line 12
+[15-Nov-2022 08:46:31 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/index.php on line 12
+[15-Nov-2022 09:15:46 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/load_assigned.php on line 12
+[15-Nov-2022 09:20:22 UTC] PHP Warning:  Undefined array key "expenses_Type" in /home/nieveslo/public_html/drivers/dropLoadForm_query.php on line 15
+[15-Nov-2022 09:34:09 UTC] PHP Warning:  Undefined array key "expenses_Type" in /home/nieveslo/public_html/drivers/dropLoadForm_query.php on line 15
+[15-Nov-2022 16:35:11 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/load_assigned.php on line 12
+[16-Nov-2022 06:07:09 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/load_assigned.php on line 12
+[16-Nov-2022 10:27:24 UTC] PHP Warning:  Undefined array key "vehicle_id" in /home/nieveslo/public_html/drivers/pickLoadForm_query.php on line 5
+[16-Nov-2022 10:27:24 UTC] PHP Warning:  Undefined array key "totalLoadPicked" in /home/nieveslo/public_html/drivers/pickLoadForm_query.php on line 10
+[16-Nov-2022 20:46:18 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/bol_form.php on line 12
+[16-Nov-2022 20:52:54 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/load_delivered.php on line 12
+[17-Nov-2022 08:41:19 UTC] PHP Warning:  Undefined array key "expenses_Type" in /home/nieveslo/public_html/drivers/dropLoadForm_query.php on line 15
+[17-Nov-2022 08:50:55 UTC] PHP Warning:  Undefined array key "vehicle_id" in /home/nieveslo/public_html/drivers/pickLoadForm_query.php on line 5
+[17-Nov-2022 08:50:55 UTC] PHP Warning:  Undefined array key "totalLoadPicked" in /home/nieveslo/public_html/drivers/pickLoadForm_query.php on line 10
+[17-Nov-2022 10:21:49 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/index.php on line 12
+[18-Nov-2022 06:56:36 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/lockscreen.php on line 20
+[18-Nov-2022 06:56:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/lockscreen.php on line 83
+[18-Nov-2022 06:56:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/lockscreen.php on line 89
+[18-Nov-2022 06:56:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/lockscreen.php on line 96
+[18-Nov-2022 15:12:30 UTC] PHP Warning:  Undefined array key "vehicle_id" in /home/nieveslo/public_html/drivers/pickLoadForm_query.php on line 5
+[18-Nov-2022 15:12:30 UTC] PHP Warning:  Undefined array key "totalLoadPicked" in /home/nieveslo/public_html/drivers/pickLoadForm_query.php on line 10
+[18-Nov-2022 15:12:45 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/dropLoadTable.php on line 11
+[18-Nov-2022 15:12:50 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/dropLoadForm.php on line 12
+[18-Nov-2022 15:12:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/dropLoadForm.php on line 104
+[18-Nov-2022 15:12:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/dropLoadForm.php on line 124
+[18-Nov-2022 15:12:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/dropLoadForm.php on line 133
+[18-Nov-2022 15:12:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/dropLoadForm.php on line 140
+[18-Nov-2022 15:12:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/dropLoadForm.php on line 141
+[18-Nov-2022 15:12:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/dropLoadForm.php on line 142
+[18-Nov-2022 15:12:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/dropLoadForm.php on line 207
+[18-Nov-2022 15:12:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/dropLoadForm.php on line 284
+[18-Nov-2022 15:13:49 UTC] PHP Warning:  Undefined array key "expenses_Type" in /home/nieveslo/public_html/drivers/dropLoadForm_query.php on line 15
+[18-Nov-2022 15:18:04 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/load_delivered.php on line 12
+[19-Nov-2022 18:20:53 UTC] PHP Warning:  Undefined array key "vehicle_id" in /home/nieveslo/public_html/drivers/pickLoadForm_query.php on line 5
+[19-Nov-2022 18:20:53 UTC] PHP Warning:  Undefined array key "totalLoadPicked" in /home/nieveslo/public_html/drivers/pickLoadForm_query.php on line 10
+[19-Nov-2022 18:22:23 UTC] PHP Warning:  Undefined array key "expenses_Type" in /home/nieveslo/public_html/drivers/dropLoadForm_query.php on line 15
+[19-Nov-2022 18:24:07 UTC] PHP Warning:  Undefined array key "expenses_Type" in /home/nieveslo/public_html/drivers/dropLoadForm_query.php on line 15
+[19-Nov-2022 18:34:33 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/lockscreen.php on line 20
+[19-Nov-2022 18:34:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/lockscreen.php on line 83
+[19-Nov-2022 18:34:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/lockscreen.php on line 89
+[19-Nov-2022 18:34:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/lockscreen.php on line 96
+[19-Nov-2022 18:37:18 UTC] PHP Warning:  Undefined array key "vehicle_id" in /home/nieveslo/public_html/drivers/pickLoadForm_query.php on line 5
+[19-Nov-2022 18:37:18 UTC] PHP Warning:  Undefined array key "totalLoadPicked" in /home/nieveslo/public_html/drivers/pickLoadForm_query.php on line 10
+[19-Nov-2022 18:38:17 UTC] PHP Warning:  Undefined array key "expenses_Type" in /home/nieveslo/public_html/drivers/dropLoadForm_query.php on line 15
+[19-Nov-2022 21:25:07 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/load_assigned.php on line 12
+[20-Nov-2022 14:01:35 UTC] PHP Warning:  Undefined array key "vehicle_id" in /home/nieveslo/public_html/drivers/pickLoadForm_query.php on line 5
+[20-Nov-2022 14:01:35 UTC] PHP Warning:  Undefined array key "totalLoadPicked" in /home/nieveslo/public_html/drivers/pickLoadForm_query.php on line 10
+[20-Nov-2022 14:04:04 UTC] PHP Warning:  Undefined array key "expenses_Type" in /home/nieveslo/public_html/drivers/dropLoadForm_query.php on line 15
+[20-Nov-2022 14:55:55 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/index.php on line 12
+[20-Nov-2022 14:56:13 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/index.php on line 12
+[20-Nov-2022 14:56:53 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/index.php on line 12
+[20-Nov-2022 14:57:40 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/index.php on line 12
+[20-Nov-2022 14:59:53 UTC] PHP Warning:  Undefined array key "vehicle_id" in /home/nieveslo/public_html/drivers/pickLoadForm_query.php on line 5
+[20-Nov-2022 14:59:53 UTC] PHP Warning:  Undefined array key "totalLoadPicked" in /home/nieveslo/public_html/drivers/pickLoadForm_query.php on line 10
+[20-Nov-2022 15:00:36 UTC] PHP Warning:  Undefined array key "expenses_Type" in /home/nieveslo/public_html/drivers/dropLoadForm_query.php on line 15
+[20-Nov-2022 15:01:17 UTC] PHP Warning:  Undefined array key "expenses_Type" in /home/nieveslo/public_html/drivers/dropLoadForm_query.php on line 15
+[20-Nov-2022 19:54:48 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/load_Details.php on line 11
+[20-Nov-2022 19:54:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 141
+[20-Nov-2022 19:54:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 142
+[20-Nov-2022 19:54:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 143
+[20-Nov-2022 19:54:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 151
+[20-Nov-2022 19:54:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 152
+[20-Nov-2022 19:54:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 161
+[20-Nov-2022 19:54:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 162
+[20-Nov-2022 19:54:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/load_Details.php on line 171
+[20-Nov-2022 19:54:51 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/due_payment.php on line 11
+[21-Nov-2022 06:07:43 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/index.php on line 12
+[01-Feb-2023 15:11:45 UTC] PHP Notice:  Undefined index: tel in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 30
+[01-Feb-2023 15:11:45 UTC] PHP Notice:  Undefined index: email in /home/nieveslo/public_html/drivers/dispatcherInfo.php on line 35
+[05-May-2023 14:15:25 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/nieveslo/public_html/drivers/lockscreen.php on line 3
+[05-May-2023 14:15:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nieveslo/public_html/drivers/lockscreen.php:1) in /home/nieveslo/public_html/drivers/lockscreen.php on line 8
+[05-May-2023 14:15:25 UTC] PHP Warning:  Undefined variable $_SESSION in /home/nieveslo/public_html/drivers/lockscreen.php on line 20
+[05-May-2023 14:15:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/lockscreen.php on line 20
+[05-May-2023 14:15:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/lockscreen.php on line 83
+[05-May-2023 14:15:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/lockscreen.php on line 89
+[05-May-2023 14:15:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/lockscreen.php on line 96
+[05-May-2023 14:15:35 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/nieveslo/public_html/drivers/lockscreen.php on line 3
+[05-May-2023 14:15:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nieveslo/public_html/drivers/lockscreen.php:1) in /home/nieveslo/public_html/drivers/lockscreen.php on line 8
+[05-May-2023 14:15:35 UTC] PHP Warning:  Undefined variable $_SESSION in /home/nieveslo/public_html/drivers/lockscreen.php on line 20
+[05-May-2023 14:15:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/lockscreen.php on line 20
+[05-May-2023 14:15:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/lockscreen.php on line 83
+[05-May-2023 14:15:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/lockscreen.php on line 89
+[05-May-2023 14:15:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/lockscreen.php on line 96
+[05-May-2023 14:15:41 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/nieveslo/public_html/drivers/lockscreen.php on line 3
+[05-May-2023 14:15:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nieveslo/public_html/drivers/lockscreen.php:1) in /home/nieveslo/public_html/drivers/lockscreen.php on line 8
+[05-May-2023 14:15:41 UTC] PHP Warning:  Undefined variable $_SESSION in /home/nieveslo/public_html/drivers/lockscreen.php on line 20
+[05-May-2023 14:15:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/lockscreen.php on line 20
+[05-May-2023 14:15:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/lockscreen.php on line 83
+[05-May-2023 14:15:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/lockscreen.php on line 89
+[05-May-2023 14:15:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/lockscreen.php on line 96
+[05-May-2023 14:15:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/nieveslo/public_html/drivers/lockscreen.php on line 3
+[05-May-2023 14:15:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nieveslo/public_html/drivers/lockscreen.php:1) in /home/nieveslo/public_html/drivers/lockscreen.php on line 8
+[05-May-2023 14:15:54 UTC] PHP Warning:  Undefined variable $_SESSION in /home/nieveslo/public_html/drivers/lockscreen.php on line 20
+[05-May-2023 14:15:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/lockscreen.php on line 20
+[05-May-2023 14:15:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/lockscreen.php on line 83
+[05-May-2023 14:15:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/lockscreen.php on line 89
+[05-May-2023 14:15:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/drivers/lockscreen.php on line 96
+[06-May-2023 14:18:06 UTC] PHP Warning:  Undefined array key "ID" in /home/nieveslo/public_html/drivers/load_assigned.php on line 12

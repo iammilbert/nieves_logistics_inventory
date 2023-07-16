@@ -1,0 +1,151 @@
+[14-Jun-2023 10:56:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadsAssignedDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[14-Jun-2023 10:56:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadsAssignedDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[14-Jun-2023 11:14:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadsAssignedDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[14-Jun-2023 11:14:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadsAssignedDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[14-Jun-2023 11:14:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadsAssignedDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[14-Jun-2023 11:14:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadsAssignedDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[14-Jun-2023 11:16:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadsAssignedDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[14-Jun-2023 12:19:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadsAssignedDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[14-Jun-2023 12:21:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadsAssignedDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[14-Jun-2023 12:40:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadsAssignedDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[14-Jun-2023 12:40:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadsAssignedDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[14-Jun-2023 13:11:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadsAssignedDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[14-Jun-2023 15:39:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadsAssignedDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[14-Jun-2023 15:53:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadsAssignedDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[14-Jun-2023 16:37:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadsAssignedDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[14-Jun-2023 16:37:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadsAssignedDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[14-Jun-2023 16:37:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadsAssignedDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[14-Jun-2023 16:37:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadsAssignedDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[14-Jun-2023 16:42:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadDeliveredByDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_delivered.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_delivered.php on line 17
+[14-Jun-2023 16:42:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadDeliveredByDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_delivered.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_delivered.php on line 17
+[14-Jun-2023 16:42:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadDeliveredByDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_delivered.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_delivered.php on line 17
+[15-Jun-2023 01:13:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadsAssignedDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[15-Jun-2023 01:13:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadsAssignedDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[15-Jun-2023 03:41:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadsAssignedDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[15-Jun-2023 03:41:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadsAssignedDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[15-Jun-2023 03:45:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadDropsAssignedToDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[15-Jun-2023 03:45:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadDropsAssignedToDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[15-Jun-2023 03:46:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadDropsAssignedToDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[15-Jun-2023 03:46:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAllLoadDropsAssignedToDriver() in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/drivers/loads_assigned.php on line 17
+[28-Jun-2023 06:40:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nieveslo/public_html/api/php-api/objects/listFunctions.php:1820) in /home/nieveslo/public_html/api/php-api/drivers/pickups_assigned.php on line 27
+[28-Jun-2023 06:46:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nieveslo/public_html/api/php-api/objects/listFunctions.php:1820) in /home/nieveslo/public_html/api/php-api/drivers/pickups_assigned.php on line 27
+[28-Jun-2023 06:47:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nieveslo/public_html/api/php-api/objects/listFunctions.php:1820) in /home/nieveslo/public_html/api/php-api/drivers/pickups_assigned.php on line 27
+[28-Jun-2023 06:50:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nieveslo/public_html/api/php-api/objects/listFunctions.php:1820) in /home/nieveslo/public_html/api/php-api/drivers/pickups_assigned.php on line 27
+[28-Jun-2023 06:51:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nieveslo/public_html/api/php-api/objects/listFunctions.php:1820) in /home/nieveslo/public_html/api/php-api/drivers/pickups_assigned.php on line 27
+[28-Jun-2023 06:51:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nieveslo/public_html/api/php-api/objects/listFunctions.php:1820) in /home/nieveslo/public_html/api/php-api/drivers/pickups_assigned.php on line 27
+[28-Jun-2023 07:08:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nieveslo/public_html/api/php-api/objects/listFunctions.php:1820) in /home/nieveslo/public_html/api/php-api/drivers/pickups_assigned.php on line 27
+[28-Jun-2023 07:31:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nieveslo/public_html/api/php-api/objects/listFunctions.php:1820) in /home/nieveslo/public_html/api/php-api/drivers/pickups_assigned.php on line 27
+[28-Jun-2023 08:26:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nieveslo/public_html/api/php-api/objects/listFunctions.php:1820) in /home/nieveslo/public_html/api/php-api/drivers/pickups_assigned.php on line 27
+[28-Jun-2023 09:13:07 UTC] PHP Warning:  Attempt to read property "load_id" on null in /home/nieveslo/public_html/api/php-api/drivers/cancel_drops.php on line 38
+[28-Jun-2023 09:13:07 UTC] PHP Warning:  Attempt to read property "status" on null in /home/nieveslo/public_html/api/php-api/drivers/cancel_drops.php on line 39
+[28-Jun-2023 09:13:07 UTC] PHP Warning:  Attempt to read property "droppedTime" on null in /home/nieveslo/public_html/api/php-api/drivers/cancel_drops.php on line 40
+[28-Jun-2023 09:13:07 UTC] PHP Warning:  Attempt to read property "dropped_Date" on null in /home/nieveslo/public_html/api/php-api/drivers/cancel_drops.php on line 41
+[28-Jun-2023 09:13:07 UTC] PHP Warning:  Attempt to read property "comment" on null in /home/nieveslo/public_html/api/php-api/drivers/cancel_drops.php on line 42
+[28-Jun-2023 09:13:07 UTC] PHP Warning:  Attempt to read property "id" on null in /home/nieveslo/public_html/api/php-api/drivers/cancel_drops.php on line 43
+[28-Jun-2023 09:13:07 UTC] PHP Warning:  Attempt to read property "totalLoadDropped" on null in /home/nieveslo/public_html/api/php-api/drivers/cancel_drops.php on line 44
+[28-Jun-2023 09:13:07 UTC] PHP Warning:  Attempt to read property "load_id" on null in /home/nieveslo/public_html/api/php-api/drivers/cancel_drops.php on line 49
+[28-Jun-2023 09:13:07 UTC] PHP Warning:  Attempt to read property "status" on null in /home/nieveslo/public_html/api/php-api/drivers/cancel_drops.php on line 50
+[28-Jun-2023 09:13:07 UTC] PHP Warning:  Attempt to read property "droppedTime" on null in /home/nieveslo/public_html/api/php-api/drivers/cancel_drops.php on line 51
+[28-Jun-2023 09:13:07 UTC] PHP Warning:  Attempt to read property "dropped_Date" on null in /home/nieveslo/public_html/api/php-api/drivers/cancel_drops.php on line 52
+[28-Jun-2023 09:13:07 UTC] PHP Warning:  Attempt to read property "comment" on null in /home/nieveslo/public_html/api/php-api/drivers/cancel_drops.php on line 53
+[28-Jun-2023 09:13:07 UTC] PHP Warning:  Attempt to read property "id" on null in /home/nieveslo/public_html/api/php-api/drivers/cancel_drops.php on line 54
+[28-Jun-2023 09:13:07 UTC] PHP Warning:  Attempt to read property "totalLoadDropped" on null in /home/nieveslo/public_html/api/php-api/drivers/cancel_drops.php on line 55
+[28-Jun-2023 09:44:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/nieveslo/public_html/api/php-api/objects/user.php:1557
+Stack trace:
+#0 /home/nieveslo/public_html/api/php-api/objects/user.php(1557): PDOStatement->execute()
+#1 /home/nieveslo/public_html/api/php-api/drivers/dropLoad.php(105): User->dropLoad_loads_assigned_update()
+#2 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/objects/user.php on line 1557
+[28-Jun-2023 09:44:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/nieveslo/public_html/api/php-api/objects/user.php:1557
+Stack trace:
+#0 /home/nieveslo/public_html/api/php-api/objects/user.php(1557): PDOStatement->execute()
+#1 /home/nieveslo/public_html/api/php-api/drivers/dropLoad.php(105): User->dropLoad_loads_assigned_update()
+#2 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/objects/user.php on line 1557

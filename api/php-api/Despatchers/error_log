@@ -1,0 +1,64 @@
+[09-Jun-2023 12:03:43 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:03:43 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:03:43 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:03:43 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:03:43 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:03:43 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:04:50 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:04:50 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:04:50 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:04:50 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:04:50 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:04:50 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:16:13 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:16:13 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:16:13 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:16:13 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:16:13 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:16:13 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:16:15 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:16:15 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:16:15 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:16:15 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:16:15 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:16:15 UTC] PHP Warning:  Undefined variable $Despatcher_id in /home/nieveslo/public_html/api/php-api/objects/listFunctions.php on line 989
+[09-Jun-2023 12:21:59 UTC] PHP Warning:  Undefined property: stdClass::$pickID in /home/nieveslo/public_html/api/php-api/Despatchers/pickLoad.php on line 50
+[09-Jun-2023 12:21:59 UTC] PHP Warning:  Undefined property: stdClass::$pickID in /home/nieveslo/public_html/api/php-api/Despatchers/pickLoad.php on line 65
+[09-Jun-2023 12:33:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAlldropsAssignedDespatcher() in /home/nieveslo/public_html/api/php-api/Despatchers/drops_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/Despatchers/drops_assigned.php on line 17
+[09-Jun-2023 12:35:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAlldropsAssignedDespatcher() in /home/nieveslo/public_html/api/php-api/Despatchers/drops_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/Despatchers/drops_assigned.php on line 17
+[09-Jun-2023 12:35:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAlldropsAssignedDespatcher() in /home/nieveslo/public_html/api/php-api/Despatchers/drops_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/Despatchers/drops_assigned.php on line 17
+[09-Jun-2023 12:38:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAlldropsAssignedDespatcher() in /home/nieveslo/public_html/api/php-api/Despatchers/drops_assigned.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/Despatchers/drops_assigned.php on line 17
+[12-Jun-2023 12:32:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nieveslo/public_html/api/php-api/Despatchers/uploadBol.php on line 23
+[12-Jun-2023 12:33:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nieveslo/public_html/api/php-api/Despatchers/uploadBol.php on line 23
+[12-Jun-2023 12:33:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nieveslo/public_html/api/php-api/Despatchers/uploadBol.php on line 23
+[13-Jun-2023 09:06:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nieveslo/public_html/api/php-api/Despatchers/uploadBol.php on line 23
+[13-Jun-2023 09:09:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nieveslo/public_html/api/php-api/Despatchers/uploadBol.php on line 23
+[13-Jun-2023 09:09:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nieveslo/public_html/api/php-api/Despatchers/uploadBol.php on line 23
+[13-Jun-2023 09:10:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nieveslo/public_html/api/php-api/Despatchers/uploadBol.php on line 23
+[14-Jun-2023 16:15:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/nieveslo/public_html/api/php-api/objects/user.php:1559
+Stack trace:
+#0 /home/nieveslo/public_html/api/php-api/objects/user.php(1559): PDOStatement->execute()
+#1 /home/nieveslo/public_html/api/php-api/Despatchers/dropLoad.php(105): User->dropLoad_loads_assigned_update()
+#2 {main}
+  thrown in /home/nieveslo/public_html/api/php-api/objects/user.php on line 1559
+[19-Jun-2023 13:15:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nieveslo/public_html/api/php-api/objects/listFunctions.php:1820) in /home/nieveslo/public_html/api/php-api/Despatchers/loads_assigned.php on line 27
+[19-Jun-2023 13:35:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nieveslo/public_html/api/php-api/objects/listFunctions.php:1820) in /home/nieveslo/public_html/api/php-api/Despatchers/loads_assigned.php on line 27
+[20-Jun-2023 06:47:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nieveslo/public_html/api/php-api/objects/listFunctions.php:1820) in /home/nieveslo/public_html/api/php-api/Despatchers/loads_assigned.php on line 27
+[20-Jun-2023 06:52:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nieveslo/public_html/api/php-api/objects/listFunctions.php:1820) in /home/nieveslo/public_html/api/php-api/Despatchers/loads_assigned.php on line 27
+[20-Jun-2023 06:52:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nieveslo/public_html/api/php-api/objects/listFunctions.php:1820) in /home/nieveslo/public_html/api/php-api/Despatchers/loads_assigned.php on line 27
+[14-Jul-2023 10:37:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nieveslo/public_html/api/php-api/objects/listFunctions.php:1825) in /home/nieveslo/public_html/api/php-api/Despatchers/loads_assigned.php on line 27
+[14-Jul-2023 10:37:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nieveslo/public_html/api/php-api/objects/listFunctions.php:1825) in /home/nieveslo/public_html/api/php-api/Despatchers/loads_assigned.php on line 27
+[14-Jul-2023 10:59:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nieveslo/public_html/api/php-api/objects/listFunctions.php:1825) in /home/nieveslo/public_html/api/php-api/Despatchers/loads_assigned.php on line 27
+[14-Jul-2023 11:19:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nieveslo/public_html/api/php-api/objects/listFunctions.php:1825) in /home/nieveslo/public_html/api/php-api/Despatchers/loads_assigned.php on line 27

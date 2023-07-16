@@ -1,0 +1,84 @@
+
+.bold{
+	font-weight: bolder;
+}
+
+.name{
+	font-size:20px; 
+	letter-spacing: 4px; 
+	color: #28a745;
+	font-weight: bolder;
+}
+
+.error{
+	background: #FFD2D2; 
+	color: #D8000C; 
+	font-size: 20px;
+}
+.success{
+	background: #DFF2BF; 
+	color: #4F8A10; 
+	font-size: 20px;
+}
+.font-size-13{
+	font-size:13.5px;
+}
+.font-size-14{
+	font-size:14px;
+}
+.font-size-15{
+	font-size:15px;
+}
+.font-size-19{
+	font-size:19px;
+}
+.font-size-28{
+	font-size:28px;
+}
+
+.font-size-30{
+	font-size:30px;
+}
+
+.font-size-20{
+	font-size:20px;
+}
+
+
+.font-size-23{
+	font-size: 23px;
+}
+
+.font-size-20{
+	font-size:20px;
+}
+.font-size-17{
+	font-size:17px;
+}
+
+.font-size-50{
+	font-size:50px;
+}
+
+.text-green{
+	color: green;
+}
+
+.navv: hover{
+	font-weight:bolder; 
+	background-color: white; 
+	onMouseOver: this.style.color: white; 
+	onMouseOut: this.style.color: steelblue;
+
+}
+
+.tahoma{
+	font-family: tahoma;
+}
+
+.comment{
+border: none;
+background-color: transparent;
+resize: none;
+outline: none;
+}

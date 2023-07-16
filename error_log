@@ -1,0 +1,553 @@
+[29-Oct-2022 09:20:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 09:20:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 10:48:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 10:48:36 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 10:48:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 10:48:37 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 10:49:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 10:49:38 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 10:49:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 10:49:40 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 10:49:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 10:49:40 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 10:49:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 10:49:40 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 10:49:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 10:49:40 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 10:49:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 10:49:40 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 10:49:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 10:49:40 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 10:49:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 10:49:45 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 10:49:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 10:49:45 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 10:49:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 10:49:45 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 10:49:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 10:49:45 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 10:49:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 10:49:45 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 10:49:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 10:49:45 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 10:50:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 10:50:15 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 10:50:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 10:50:17 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 10:50:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 10:50:18 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 10:50:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 10:50:21 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 10:50:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 10:50:25 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 10:51:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 10:51:24 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 10:59:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 10:59:17 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 10:59:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 10:59:29 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:00:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:00:12 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:00:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:00:14 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:00:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:00:17 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:00:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:00:20 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:00:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:00:26 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:01:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:01:00 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:01:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:01:35 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:02:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:02:21 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:02:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:02:34 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:05:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:05:46 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:05:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:05:50 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:07:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:07:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:07:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:07:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:07:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:07:31 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:10:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:10:46 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:10:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:10:47 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:10:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:10:49 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:17:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:17:35 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:19:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:19:49 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:19:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:19:55 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:19:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:19:56 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:19:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:19:56 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:20:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:20:37 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:30:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:30:37 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 11:41:49 UTC] PHP Warning:  Undefined variable $row4 in /home/nieveslo/public_html/index.php on line 42
+[29-Oct-2022 11:41:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/index.php on line 42
+[29-Oct-2022 11:41:49 UTC] PHP Warning:  Undefined variable $row4 in /home/nieveslo/public_html/index.php on line 395
+[29-Oct-2022 11:41:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/index.php on line 395
+[29-Oct-2022 11:44:38 UTC] PHP Warning:  Undefined variable $row4 in /home/nieveslo/public_html/index.php on line 42
+[29-Oct-2022 11:44:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/index.php on line 42
+[29-Oct-2022 11:44:38 UTC] PHP Warning:  Undefined variable $row4 in /home/nieveslo/public_html/index.php on line 395
+[29-Oct-2022 11:44:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/index.php on line 395
+[29-Oct-2022 11:46:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 11:46:08 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/about.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/about.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/about.php on line 59
+[29-Oct-2022 11:59:20 UTC] PHP Warning:  Undefined variable $row4 in /home/nieveslo/public_html/index.php on line 42
+[29-Oct-2022 11:59:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/index.php on line 42
+[29-Oct-2022 11:59:20 UTC] PHP Warning:  Undefined variable $row4 in /home/nieveslo/public_html/index.php on line 395
+[29-Oct-2022 11:59:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/index.php on line 395
+[29-Oct-2022 12:02:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 12:02:12 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 12:02:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 12:02:15 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 12:07:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nieveslo_nievesdb'@'localhost' to database 'nieveslo_db' in /home/nieveslo/public_html/config.php on line 3
+[29-Oct-2022 12:07:58 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/index.php:59
+Stack trace:
+#0 /home/nieveslo/public_html/index.php(59): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/index.php on line 59
+[29-Oct-2022 21:03:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[29-Oct-2022 21:03:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[01-Nov-2022 10:41:20 UTC] PHP Warning:  Undefined variable $row in /home/nieveslo/public_html/lockscreen.php on line 44
+[01-Nov-2022 10:41:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/lockscreen.php on line 44
+[01-Nov-2022 11:14:35 UTC] PHP Warning:  Undefined variable $row in /home/nieveslo/public_html/lockscreen.php on line 44
+[01-Nov-2022 11:14:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/lockscreen.php on line 44
+[01-Nov-2022 11:14:38 UTC] PHP Warning:  Undefined variable $row in /home/nieveslo/public_html/lockscreen.php on line 44
+[01-Nov-2022 11:14:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/lockscreen.php on line 44
+[01-Nov-2022 11:19:04 UTC] PHP Warning:  Undefined variable $row in /home/nieveslo/public_html/lockscreen.php on line 44
+[01-Nov-2022 11:19:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/lockscreen.php on line 44
+[03-Nov-2022 10:27:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[03-Nov-2022 10:27:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[03-Nov-2022 11:39:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[03-Nov-2022 11:39:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[03-Nov-2022 19:38:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[03-Nov-2022 19:38:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[03-Nov-2022 19:43:50 UTC] PHP Warning:  Undefined variable $row in /home/nieveslo/public_html/lockscreen.php on line 44
+[03-Nov-2022 19:43:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/lockscreen.php on line 44
+[03-Nov-2022 19:44:04 UTC] PHP Warning:  Undefined variable $row in /home/nieveslo/public_html/lockscreen.php on line 44
+[03-Nov-2022 19:44:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/lockscreen.php on line 44
+[03-Nov-2022 19:44:12 UTC] PHP Warning:  Undefined variable $row in /home/nieveslo/public_html/lockscreen.php on line 44
+[03-Nov-2022 19:44:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/lockscreen.php on line 44
+[03-Nov-2022 19:59:12 UTC] PHP Warning:  Undefined variable $row in /home/nieveslo/public_html/lockscreen.php on line 44
+[03-Nov-2022 19:59:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/lockscreen.php on line 44
+[07-Nov-2022 14:43:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[07-Nov-2022 14:43:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[07-Nov-2022 14:45:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[07-Nov-2022 14:45:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[07-Nov-2022 14:46:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[07-Nov-2022 14:46:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[07-Nov-2022 14:49:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[07-Nov-2022 14:49:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[07-Nov-2022 14:50:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[07-Nov-2022 14:50:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[07-Nov-2022 14:54:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[07-Nov-2022 14:54:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[07-Nov-2022 14:55:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[07-Nov-2022 14:55:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[07-Nov-2022 14:57:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[07-Nov-2022 14:57:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[07-Nov-2022 15:00:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[07-Nov-2022 15:00:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[08-Nov-2022 08:49:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[08-Nov-2022 08:49:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[08-Nov-2022 09:59:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[08-Nov-2022 09:59:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[08-Nov-2022 13:10:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[08-Nov-2022 13:10:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[08-Nov-2022 13:12:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[08-Nov-2022 13:12:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[11-Nov-2022 09:21:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[11-Nov-2022 09:21:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[14-Nov-2022 09:56:54 UTC] PHP Warning:  Undefined variable $cts in /home/nieveslo/public_html/index.php on line 50
+[14-Nov-2022 12:04:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/nieveslo/public_html/config.php on line 3
+[14-Nov-2022 12:04:27 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/nieveslo/public_html/login.php:111
+Stack trace:
+#0 /home/nieveslo/public_html/login.php(111): mysqli_query(false, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/nieveslo/public_html/login.php on line 111
+[18-Nov-2022 10:50:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lgtilogi/public_html/lockscreen.php on line 3
+[18-Nov-2022 10:50:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lgtilogi/public_html/lockscreen.php:1) in /home/lgtilogi/public_html/lockscreen.php on line 8
+[18-Nov-2022 11:07:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lgtilogi/public_html/lockscreen.php on line 3
+[18-Nov-2022 11:07:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lgtilogi/public_html/lockscreen.php:1) in /home/lgtilogi/public_html/lockscreen.php on line 8
+[18-Nov-2022 11:08:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lgtilogi/public_html/lockscreen.php on line 3
+[18-Nov-2022 11:08:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lgtilogi/public_html/lockscreen.php:1) in /home/lgtilogi/public_html/lockscreen.php on line 8
+[18-Nov-2022 11:08:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lgtilogi/public_html/lockscreen.php on line 3
+[18-Nov-2022 11:08:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lgtilogi/public_html/lockscreen.php:1) in /home/lgtilogi/public_html/lockscreen.php on line 8
+[18-Nov-2022 11:08:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lgtilogi/public_html/lockscreen.php on line 3
+[18-Nov-2022 11:08:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lgtilogi/public_html/lockscreen.php:1) in /home/lgtilogi/public_html/lockscreen.php on line 8
+[18-Nov-2022 11:21:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lgtilogi/public_html/lockscreen.php on line 3
+[18-Nov-2022 11:21:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lgtilogi/public_html/lockscreen.php:1) in /home/lgtilogi/public_html/lockscreen.php on line 8
+[18-Nov-2022 11:52:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lgtilogi/public_html/lockscreen.php on line 3
+[18-Nov-2022 11:52:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lgtilogi/public_html/lockscreen.php:1) in /home/lgtilogi/public_html/lockscreen.php on line 8
+[18-Nov-2022 11:53:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lgtilogi/public_html/lockscreen.php on line 3
+[18-Nov-2022 11:53:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lgtilogi/public_html/lockscreen.php:1) in /home/lgtilogi/public_html/lockscreen.php on line 8
+[18-Nov-2022 11:54:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lgtilogi/public_html/lockscreen.php on line 3
+[18-Nov-2022 11:54:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lgtilogi/public_html/lockscreen.php:1) in /home/lgtilogi/public_html/lockscreen.php on line 8
+[18-Nov-2022 12:09:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lgtilogi/public_html/lockscreen.php on line 3
+[18-Nov-2022 12:09:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lgtilogi/public_html/lockscreen.php:1) in /home/lgtilogi/public_html/lockscreen.php on line 8
+[18-Nov-2022 14:36:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lgtilogi/public_html/lockscreen.php on line 3
+[18-Nov-2022 14:36:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lgtilogi/public_html/lockscreen.php:1) in /home/lgtilogi/public_html/lockscreen.php on line 8
+[18-Nov-2022 15:49:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lgtilogi/public_html/lockscreen.php on line 3
+[18-Nov-2022 15:49:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lgtilogi/public_html/lockscreen.php:1) in /home/lgtilogi/public_html/lockscreen.php on line 8
+[18-Nov-2022 15:50:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lgtilogi/public_html/lockscreen.php on line 3
+[18-Nov-2022 15:50:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lgtilogi/public_html/lockscreen.php:1) in /home/lgtilogi/public_html/lockscreen.php on line 8
+[19-Nov-2022 07:34:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lgtilogi/public_html/lockscreen.php on line 3
+[19-Nov-2022 07:34:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lgtilogi/public_html/lockscreen.php:1) in /home/lgtilogi/public_html/lockscreen.php on line 8
+[19-Nov-2022 07:35:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lgtilogi/public_html/lockscreen.php on line 3
+[19-Nov-2022 07:35:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lgtilogi/public_html/lockscreen.php:1) in /home/lgtilogi/public_html/lockscreen.php on line 8
+[19-Nov-2022 08:13:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lgtilogi/public_html/lockscreen.php on line 3
+[19-Nov-2022 08:13:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lgtilogi/public_html/lockscreen.php:1) in /home/lgtilogi/public_html/lockscreen.php on line 8
+[19-Nov-2022 08:13:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lgtilogi/public_html/lockscreen.php on line 3
+[19-Nov-2022 08:13:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lgtilogi/public_html/lockscreen.php:1) in /home/lgtilogi/public_html/lockscreen.php on line 8
+[30-Nov-2022 09:57:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lgtilogi/public_html/lockscreen.php on line 3
+[30-Nov-2022 09:57:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lgtilogi/public_html/lockscreen.php:1) in /home/lgtilogi/public_html/lockscreen.php on line 8
+[30-Nov-2022 09:58:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lgtilogi/public_html/lockscreen.php on line 3
+[30-Nov-2022 09:58:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lgtilogi/public_html/lockscreen.php:1) in /home/lgtilogi/public_html/lockscreen.php on line 8
+[28-Dec-2022 17:13:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/lgtilogi/public_html/config.php on line 3
+[28-Dec-2022 17:13:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/lgtilogi/public_html/index.php on line 59
+[28-Dec-2022 17:13:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lgtilogi/public_html/index.php on line 60
+[01-Feb-2023 10:13:29 UTC] PHP Notice:  Undefined index: subject in /home/nieveslo/public_html/index.php on line 33
+[01-Feb-2023 10:13:29 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/index.php on line 50
+[03-Feb-2023 17:31:48 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/index.php on line 50
+[06-Feb-2023 09:51:55 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/index.php on line 50
+[06-Feb-2023 10:52:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[06-Feb-2023 10:52:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[06-Feb-2023 10:55:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[06-Feb-2023 10:55:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[07-Feb-2023 13:09:44 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/index.php on line 50
+[08-Feb-2023 19:38:32 UTC] PHP Notice:  Undefined index: subject in /home/nieveslo/public_html/index.php on line 33
+[08-Feb-2023 19:38:32 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/index.php on line 50
+[14-Feb-2023 09:15:12 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/index.php on line 50
+[20-Feb-2023 21:17:30 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/index.php on line 50
+[26-Feb-2023 14:39:19 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/index.php on line 50
+[26-Feb-2023 20:48:07 UTC] PHP Notice:  Undefined index: subject in /home/nieveslo/public_html/index.php on line 33
+[26-Feb-2023 20:48:07 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/index.php on line 50
+[04-Mar-2023 20:26:37 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/index.php on line 50
+[07-Mar-2023 21:07:15 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/index.php on line 50
+[08-Mar-2023 17:52:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[08-Mar-2023 17:52:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[27-Mar-2023 01:20:29 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/index.php on line 50
+[27-Mar-2023 17:20:35 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/index.php on line 50
+[30-Mar-2023 14:17:50 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/index.php on line 50
+[01-Apr-2023 14:21:13 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/index.php on line 50
+[04-Apr-2023 19:57:20 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/index.php on line 50
+[05-Apr-2023 05:32:49 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/index.php on line 50
+[08-Apr-2023 22:27:09 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/index.php on line 50
+[08-Apr-2023 23:41:41 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/index.php on line 50
+[11-Apr-2023 07:47:44 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/contact.php on line 168
+[11-Apr-2023 09:33:56 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/index.php on line 50
+[12-Apr-2023 14:46:04 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/index.php on line 50
+[16-Apr-2023 03:43:12 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/index.php on line 50
+[17-Apr-2023 15:40:26 UTC] PHP Notice:  Undefined variable: cts in /home/nieveslo/public_html/index.php on line 50
+[23-Apr-2023 12:17:26 UTC] PHP Warning:  Undefined variable $cts in /home/nieveslo/public_html/index.php on line 50
+[24-Apr-2023 09:45:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[24-Apr-2023 09:45:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[25-Apr-2023 00:24:47 UTC] PHP Warning:  Undefined variable $cts in /home/nieveslo/public_html/index.php on line 50
+[25-Apr-2023 00:27:05 UTC] PHP Warning:  Undefined variable $cts in /home/nieveslo/public_html/index.php on line 50
+[25-Apr-2023 15:18:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[25-Apr-2023 15:18:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[25-Apr-2023 15:25:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[25-Apr-2023 15:25:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[25-Apr-2023 15:29:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[25-Apr-2023 15:29:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[25-Apr-2023 15:31:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 116
+[25-Apr-2023 15:31:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 124
+[25-Apr-2023 15:42:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[25-Apr-2023 15:42:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[25-Apr-2023 15:46:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "Staff" in /home/nieveslo/public_html/login.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/login.php on line 86
+[25-Apr-2023 15:48:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "Staff" in /home/nieveslo/public_html/login.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/nieveslo/public_html/login.php on line 86
+[26-Apr-2023 02:05:04 UTC] PHP Warning:  Undefined variable $cts in /home/nieveslo/public_html/index.php on line 50
+[28-Apr-2023 11:07:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[28-Apr-2023 11:07:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[29-Apr-2023 12:37:51 UTC] PHP Warning:  Undefined array key "subject" in /home/nieveslo/public_html/index.php on line 33
+[29-Apr-2023 12:37:51 UTC] PHP Warning:  Undefined variable $cts in /home/nieveslo/public_html/index.php on line 50
+[01-May-2023 11:45:32 UTC] PHP Warning:  Undefined variable $cts in /home/nieveslo/public_html/index.php on line 50
+[02-May-2023 08:13:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[02-May-2023 08:13:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[02-May-2023 08:16:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[02-May-2023 08:16:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[02-May-2023 08:19:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[02-May-2023 08:19:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[02-May-2023 08:24:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[02-May-2023 08:24:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[03-May-2023 07:42:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[03-May-2023 07:42:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[03-May-2023 07:42:52 UTC] PHP Warning:  Undefined array key "date_sub" in /home/nieveslo/public_html/index.php on line 7
+[06-May-2023 15:51:21 UTC] PHP Warning:  Undefined array key "subject" in /home/nieveslo/public_html/index.php on line 33
+[15-May-2023 20:12:28 UTC] PHP Warning:  Undefined array key "subject" in /home/nieveslo/public_html/index.php on line 33
+[21-May-2023 03:02:14 UTC] PHP Warning:  Undefined array key "subject" in /home/nieveslo/public_html/index.php on line 33
+[27-May-2023 19:37:26 UTC] PHP Warning:  Undefined variable $cts in /home/nieveslo/public_html/index.php on line 50
+[30-May-2023 13:10:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[30-May-2023 13:10:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[30-May-2023 13:14:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[30-May-2023 13:14:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[30-May-2023 13:16:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[30-May-2023 13:16:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[02-Jun-2023 17:25:21 UTC] PHP Warning:  Undefined variable $cts in /home/nieveslo/public_html/index.php on line 50
+[11-Jun-2023 18:46:41 UTC] PHP Warning:  Undefined variable $cts in /home/nieveslo/public_html/index.php on line 50
+[15-Jun-2023 12:11:16 UTC] PHP Warning:  Undefined variable $cts in /home/nieveslo/public_html/index.php on line 50
+[15-Jun-2023 15:24:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[15-Jun-2023 15:24:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[15-Jun-2023 20:24:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[15-Jun-2023 20:24:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[18-Jun-2023 17:18:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[18-Jun-2023 17:18:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[19-Jun-2023 16:06:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[19-Jun-2023 16:06:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[20-Jun-2023 09:37:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[20-Jun-2023 09:37:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[20-Jun-2023 10:53:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[20-Jun-2023 10:53:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[21-Jun-2023 18:43:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[21-Jun-2023 18:43:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[22-Jun-2023 09:30:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[22-Jun-2023 09:30:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[22-Jun-2023 09:36:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[22-Jun-2023 09:36:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[22-Jun-2023 09:37:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[22-Jun-2023 09:37:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[22-Jun-2023 11:11:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[22-Jun-2023 11:11:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[22-Jun-2023 11:31:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[22-Jun-2023 11:31:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[22-Jun-2023 11:47:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[22-Jun-2023 11:47:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[22-Jun-2023 11:54:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[22-Jun-2023 11:54:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[23-Jun-2023 14:21:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[23-Jun-2023 14:21:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[24-Jun-2023 21:22:55 UTC] PHP Warning:  Undefined variable $cts in /home/nieveslo/public_html/index.php on line 50
+[24-Jun-2023 22:19:43 UTC] PHP Warning:  Undefined variable $cts in /home/nieveslo/public_html/index.php on line 50
+[26-Jun-2023 18:54:26 UTC] PHP Warning:  Undefined variable $cts in /home/nieveslo/public_html/index.php on line 50
+[27-Jun-2023 15:46:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[27-Jun-2023 15:46:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[28-Jun-2023 10:43:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 117
+[28-Jun-2023 10:43:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/nieveslo/public_html/register.php on line 125
+[29-Jun-2023 17:30:59 UTC] PHP Warning:  Undefined variable $cts in /home/nieveslo/public_html/index.php on line 50
+[02-Jul-2023 17:09:51 UTC] PHP Warning:  Undefined variable $cts in /home/nieveslo/public_html/index.php on line 50
+[02-Jul-2023 23:18:00 UTC] PHP Warning:  Undefined variable $cts in /home/nieveslo/public_html/index.php on line 50
+[10-Jul-2023 12:04:31 UTC] PHP Warning:  Undefined array key "subject" in /home/nieveslo/public_html/index.php on line 33
+[15-Jul-2023 00:37:52 UTC] PHP Warning:  Undefined variable $cts in /home/nieveslo/public_html/index.php on line 50
+[15-Jul-2023 06:11:03 UTC] PHP Warning:  Undefined array key "subject" in /home/nieveslo/public_html/index.php on line 33
